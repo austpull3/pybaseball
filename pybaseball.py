@@ -1,5 +1,5 @@
 import streamlit as st
-from pybaseball import spray_chart
+from pybaseball import spraychart
 
 def main():
   player_name = "Mike Trout"
