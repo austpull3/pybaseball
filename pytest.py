@@ -1,6 +1,6 @@
 import streamlit as st
 from pybaseball import statcast_batter, spraychart
-import pyodbc
+import pymssql
 
 st.title("Pybaseball Spraychart")
 
